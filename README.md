@@ -1,3 +1,2 @@
 # JS_cookie
-
- https://github.com/a120220ms25/JS_cookie.git
+https://a120220ms25.github.io/JS_cookie/
